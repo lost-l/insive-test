@@ -1,0 +1,17 @@
+# Byte-compiled / optimized Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment directory (if you're using virtualenv or pipenv)
+.env/
+
+# Distribution / packaging directories
+/dist/
+/build/
+
+# Project-specific directories
+# You might want to customize this based on your project structure
+/.idea/
+/.vscode/
